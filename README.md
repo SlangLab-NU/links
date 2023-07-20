@@ -7,7 +7,7 @@ This file contains a list of working links, probably more like a GIST
   - Voice collector code walk: 
   - Recording by Katelyn Eng: 
 
-## Setting up on NEU Research Cluster:
+## Setting up on NEU research cluster:
 
 ## Great starting point to learn about cluster
 
