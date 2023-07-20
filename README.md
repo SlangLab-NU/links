@@ -41,7 +41,7 @@ A short 30 minutes course on LinkedIn: https://www.linkedin.com/learning/videos/
 
 Cluster website: https://rc-docs.northeastern.edu/en/latest/welcome/welcome.html
 
-## Requesting access the cluster
+## Requesting access to the cluster
 
 - Need to request access to cluster. Only NEU students or faculty can access the cluster. It can be done by following the link: 
 
@@ -58,16 +58,17 @@ This is specific for VSCode IDE. Our team installed the remote server extension 
 3. `Accessing Open OnDemand`: **RECOMMENDED!**
 Follow the link: https://rc-docs.northeastern.edu/en/latest/first_steps/connect_ood.html
 
-Use your NEU username and password to get access into the cluster. So far, our experiments have been done using the JupyterLab Notebook. Following is the sequence of starting a notebook:
+Use your NEU username and password to get access into the cluster. So far, our experiments have been done using the JupyterLab Notebook. Following are the steps to start a notebook:
 
 - Once logged in, go to `Interactive Apps` dropdown menu
-- Choose the application, in our case: `JupyterLab Notebook`
+- Choose the application you wish to use, in our case: `JupyterLab Notebook`
 - Setup the environment:
   - work directory: /work/van-speech-nlp/
   - partition: used gpu for our experiments, recommend all gpu's except for K40
   - CPUs: recommended between 2-4
   - Memory: preset at 4GB
   - Time: preset at 4 hours (can request upto 8 hours)
-  - Need a reservation/request permission if trying to use multiple gpus
+  - Need a reservation/request permission if trying to use multiple gpus or requesting more than 8 hours on the cluster
+    - https://service.northeastern.edu/tech?id=sc_cat_item&sys_id=0c34d402db0b0010a37cd206ca9619b7
   - Can provide path to custom anaconda installed or use one of the modules on cluster, our experiments had the following custom environment: /work/van-speech-nlp/condaENV/bin
   - click launch and wait in queue to be provided access to the cluster
