@@ -10,28 +10,25 @@ This file contains a list of working links, probably more like a GIST
 ## Setting up on Polaris (team local server):
 
 ### Compute for Polaris - will send user credentials via direct message on onetimesecret
-server name: polaris.happyprime.io
+Server name: polaris.happyprime.io
 
 ### how do i login?
-if you have a terminal you can login using ssh -p 1379 username@polaris.happyprime.io
+If you have a terminal you can login using ssh -p 1379 username@polaris.happyprime.io
 
 ### is there a gui to login?
-yes, you can download x2go, a cross-platform client that allows remote desktop sessions : https://wiki.x2go.org/doku.php/download:start.
-the only desktop environment that is supported is XFCE. Choose your screen resolution and use the details above like server name
-and port number along with your usernames and passwords.
+Yes, you can download x2go, a cross-platform client that allows remote desktop sessions : https://wiki.x2go.org/doku.php/download:start.
+the only desktop environment that is supported is XFCE. Choose your screen resolution and use the details above like server name and port number along with your usernames and passwords.
 
-a note on directory usage and server usage
+A note on directory usage and server usage:
 
 ### server usage
 
-by default sudo access is disabled. the system comes installed with cuda 11.8. the default python is 3.6.9. you can use python3.8
-(which is installed on the machine) to opeate within a virtualenv. and nvidia-smi will show that there are 3x 1080Ti 12GB cards on the machine. the system is constantly 
-monitored for suspcious usage, any suspicious usage or sharing of credentials will have accounts suspended. 
+By default sudo access is disabled. the system comes installed with cuda 11.8. the default python is 3.6.9. you can use python3.8
+(which is installed on the machine) to opeate within a virtualenv. and nvidia-smi will show that there are 3x 1080Ti 12GB cards on the machine. the system is constantly monitored for suspcious usage, any suspicious usage or sharing of credentials will have accounts suspended. 
 
 ### directory usage
 
-each user has a default home directory under /home/username. please do not use this directory to store large datasets. all data and code 
-lives either on /home/data1 or /home/data2 these are both 3TB hard-drives each.
+Each user has a default home directory under /home/username. please do not use this directory to store large datasets. all data and code lives either on `/home/data1` or `/home/data2` these are both 3TB hard-drives each.
 
 ## Setting up on NEU Research Cluster:
 
