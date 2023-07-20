@@ -17,9 +17,8 @@ Cluster website: https://rc-docs.northeastern.edu/en/latest/welcome/welcome.html
 
 ## Requesting access to the cluster
 
-- Need to request access to cluster. Only NEU students or faculty can access the cluster. It can be done by following the link: 
-
-https://rc-docs.northeastern.edu/en/latest/first_steps/get_access.html
+- Need to request access to cluster. Only NEU students or faculty can access the cluster.
+- It can be done by following the link: https://rc-docs.northeastern.edu/en/latest/first_steps/get_access.html
 
 ## 3 ways to connect to cluster
 
@@ -37,7 +36,7 @@ Use your NEU username and password to get access into the cluster. So far, our e
 - Once logged in, go to `Interactive Apps` dropdown menu
 - Choose the application you wish to use, in our case: `JupyterLab Notebook`
 - Setup the environment:
-  - work directory: /work/van-speech-nlp/
+  - Work directory: /work/van-speech-nlp/
   - partition: used gpu for our experiments, recommend all gpu's except for K40
   - CPUs: recommended between 2-4
   - Memory: preset at 4GB
@@ -45,4 +44,4 @@ Use your NEU username and password to get access into the cluster. So far, our e
   - Need a reservation/request permission if trying to use multiple gpus or requesting more than 8 hours on the cluster
     - https://service.northeastern.edu/tech?id=sc_cat_item&sys_id=0c34d402db0b0010a37cd206ca9619b7
   - Can provide path to custom anaconda installed or use one of the modules on cluster, our experiments had the following custom environment: /work/van-speech-nlp/condaENV/bin
-  - click launch and wait in queue to be provided access to the cluster
+  - Click launch and wait in queue to be provided access to the cluster
