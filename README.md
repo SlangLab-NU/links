@@ -5,7 +5,7 @@ This file contains a list of working links, probably more like a GIST
   - Code to fine-tune xlsr model: https://colab.research.google.com/drive/1kX_pBURiaujpuDYaB8O1hrLLQrK8bWsQ
   - Code to add LM: https://colab.research.google.com/drive/1AIgP6lc7BZTDrlU5yu83R05QDesWv4mw
   - Voice collector code walk: 
-  - Recording by Katelyn Eng: 
+  - Recording by Katelyn Eng: https://drive.google.com/file/d/1pwbsO7L9rY88peNSeNPOdjYzmtJoAV2R/view?usp=sharing 
 
 ## Setting up on NEU research cluster:
 
