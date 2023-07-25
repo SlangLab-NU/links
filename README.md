@@ -1,12 +1,13 @@
 ## ASR and voice collector links:
 
 This file contains a list of working links, probably more like a GIST
-- 29th May, 2023
-  - Code to fine-tune xlsr model: https://colab.research.google.com/drive/1kX_pBURiaujpuDYaB8O1hrLLQrK8bWsQ
+  - Code to fine-tune xlsr model: 
+    - May 29, 2023 (Version 1): https://colab.research.google.com/drive/1kX_pBURiaujpuDYaB8O1hrLLQrK8bWsQ
+    - July 24, 2023 (Version 2, latest version): https://colab.research.google.com/drive/12D3XOoNT610DyrQQPBsGcZQh1LVJA7YO?usp=sharing
   - Code to add LM: https://colab.research.google.com/drive/1AIgP6lc7BZTDrlU5yu83R05QDesWv4mw
   - Voice collector code walk: 
   - Recording by Katelyn Eng: https://drive.google.com/file/d/1pwbsO7L9rY88peNSeNPOdjYzmtJoAV2R/view?usp=sharing
-  - Prompts for VoiceCollector: @Moni These are Katelyn's prompts she designed for VoiceCollector : https://docs.google.com/document/d/1WOhUgN8w8LyG6c0FX0olAUzpQkTmwm-E_Wg71Eb4WyQ/edit?usp=sharing
+  - Prompts for VoiceCollector: https://docs.google.com/document/d/1WOhUgN8w8LyG6c0FX0olAUzpQkTmwm-E_Wg71Eb4WyQ/edit?usp=sharing
 
 
 ## Setting up on NEU research cluster:
