@@ -1,3 +1,6 @@
+## AAC application document link:
+  - latest draft: August 29, 2023: https://docs.google.com/document/d/1dXDzyCJ8A2fEvlQfw6xwGMRTD8q0EAvBN9bEAdGkNO0/edit?usp=sharing
+  
 ## ASR and voice collector links:
 
 This file contains a list of working links, probably more like a GIST
