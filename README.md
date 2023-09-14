@@ -1,5 +1,5 @@
 ## AAC application document link:
-  - Latest Draft: September 12, 2023: <a href="https://docs.google.com/document/d/1dXDzyCJ8A2fEvlQfw6xwGMRTD8q0EAvBN9bEAdGkNO0/edit?usp=sharing" target="_blank">Google Doc</a>
+  - Latest Draft: September 12, 2023: <a href="https://docs.google.com/document/d/1dXDzyCJ8A2fEvlQfw6xwGMRTD8q0EAvBN9bEAdGkNO0/edit?usp=sharing" target="_blank">AAC Google Doc</a>
 
   
 ## ASR and voice collector links:
@@ -13,6 +13,15 @@ This file contains a list of working links, probably more like a GIST
   - Recording by Katelyn Eng: https://drive.google.com/file/d/1pwbsO7L9rY88peNSeNPOdjYzmtJoAV2R/view?usp=sharing
   - Prompts for VoiceCollector: https://docs.google.com/document/d/1WOhUgN8w8LyG6c0FX0olAUzpQkTmwm-E_Wg71Eb4WyQ/edit?usp=sharing
 
+This file contains a list of working links, probably more like a GIST:
+  - Code to fine-tune xlsr model: 
+    - May 29, 2023: <a href="https://colab.research.google.com/drive/1kX_pBURiaujpuDYaB8O1hrLLQrK8bWsQ" target="_blank">Version 1</a>
+    - July 24, 2023: <a href="https://colab.research.google.com/drive/12D3XOoNT610DyrQQPBsGcZQh1LVJA7YO?usp=sharing" target="_blank">Version 2</a>
+    - September 14, 2023 (latest version): <a href="https://colab.research.google.com/drive/1J2UVEQNWdZZy7Z6ZDafFUksLbNI0hjfG?usp=sharing" target="_blank">Version 3</a>
+  - Code to add LM: <a href="https://colab.research.google.com/drive/1AIgP6lc7BZTDrlU5yu83R05QDesWv4mw" target="_blank">LM Google Colab</a>
+  - Voice collector code walk:
+  - Recording by Katelyn Eng: <a href="https://drive.google.com/file/d/1pwbsO7L9rY88peNSeNPOdjYzmtJoAV2R/view?usp=sharing" target="_blank">Recording</a>
+  - Prompts for VoiceCollector: <a href="https://docs.google.com/document/d/1WOhUgN8w8LyG6c0FX0olAUzpQkTmwm-E_Wg71Eb4WyQ/edit?usp=sharing" target="_blank">Voice Collector Google Doc</a>
 
 ## Setting up on NEU research cluster:
 
