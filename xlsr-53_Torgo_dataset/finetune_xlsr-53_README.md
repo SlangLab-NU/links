@@ -1,5 +1,7 @@
 # finetuning xlsr-53 wav2vec2 model with Torgo dataset script:
 
+## METHOD 1:
+
 This repository contains files related to running ASR training, evaluation and generating Word Error Rate for the Torgo dataset. Follow the files below to understand the whole process.
 
 ### Files inside the folder:
@@ -18,3 +20,8 @@ This repository contains files related to running ASR training, evaluation and g
         - Once, the upload is completed, the finetuning script can be run
 
 2. Note: To run the script, a high RAM and GPU environment is recommended. All the experiments were run using Google Colab Pro.
+
+## METHOD 2:
+
+Use the following link to run the Torgo script:
+ - September 14, 2023 (latest version): <a href="https://colab.research.google.com/drive/1J2UVEQNWdZZy7Z6ZDafFUksLbNI0hjfG?usp=sharing" target="_blank">Version 3</a>
