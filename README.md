@@ -13,6 +13,10 @@ This file contains a list of working links, probably more like a GIST:
   - Voice collector code walk:
   - Recording by Katelyn Eng: <a href="https://drive.google.com/file/d/1pwbsO7L9rY88peNSeNPOdjYzmtJoAV2R/view?usp=sharing" target="_blank">Recording</a>
   - Prompts for VoiceCollector: <a href="https://docs.google.com/document/d/1WOhUgN8w8LyG6c0FX0olAUzpQkTmwm-E_Wg71Eb4WyQ/edit?usp=sharing" target="_blank">Voice Collector Google Doc</a>
+  - KenLM Language Model Integration with Torgo dataset (fine-tuned from xlsr model):
+    - [Build n-gram language model with KenLM](https://colab.research.google.com/drive/1s6qAjX3A55ezwS2oAh0MoRvYp7CLd68o?usp=sharing)
+    - [Fine-turning wav2Vvec2 model with Torgo](https://colab.research.google.com/drive/19zJW6BBOE1NMuBduCE7V_Z07jcSJT3RL?usp=sharing)
+    - [n-gram LM integration](https://colab.research.google.com/drive/1HU362QyYfRKxnVP-1J5aTZ19BEXcGa5r?usp=sharing)
 
 ## Setting up on NEU research cluster:
 
