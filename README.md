@@ -1,7 +1,8 @@
 ## AAC application document link:
   - Latest Draft: September 12, 2023: <a href="https://docs.google.com/document/d/1dXDzyCJ8A2fEvlQfw6xwGMRTD8q0EAvBN9bEAdGkNO0/edit?usp=sharing" target="_blank">AAC Google Doc</a>
 
-  
+## PSST with LM
+- [Lauryn's LM notebook](https://colab.research.google.com/drive/1gGITlubcQFnzsnLj4SlOa_KN0qL7MY5u?usp=sharing)
 ## ASR and voice collector links:
 
 This file contains a list of working links, probably more like a GIST:
